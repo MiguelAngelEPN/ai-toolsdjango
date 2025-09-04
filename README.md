@@ -32,9 +32,9 @@ ollama serve
 
 ## Descargar un modelo compatible
 ```powershell
+ollama pull qwen2.5
 ```
 
-ollama pull qwen2.5
 # opcional:
 ```powershell
 ollama pull llama3.1
